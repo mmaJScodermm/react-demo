@@ -1,0 +1,13 @@
+.panel{
+	flex:1;
+}
+.title-content{
+	margin-left:5px;
+}
+.item-wrapper{
+	height:200px;
+	overflow-y:scroll ;
+	padding-top:20px;
+	border:1px solid #000;
+	margin-right:5px;
+}
